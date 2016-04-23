@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0mRunning scalafaq.concurrency.shapes.ShapesDrawingDriver [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Think\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Think\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Think\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread DrawinActorSystem-akka.actor.default-dispatcher-2 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread DrawinActorSystem-akka.actor.default-dispatcher-2 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

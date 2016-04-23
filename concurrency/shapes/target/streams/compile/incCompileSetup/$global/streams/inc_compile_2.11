@@ -1,0 +1,319 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+25 items
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Circle$.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Circle.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Point$.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Point.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Rectangle$.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Rectangle.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Shape.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Triangle$.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Triangle.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Messages$.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Messages$Exit$.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Messages$Finished$.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Messages$Response$.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Messages$Response.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Messages.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingActor$$anonfun$receive$1.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingActor.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingDriver$$anonfun$1.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingDriver$$anonfun$2.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingDriver$$anonfun$receive$1.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingDriver$.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingDriver.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Start$.class
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Start.class
+binary dependencies:
+8 items
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> C:\Users\Think\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> D:\Java\jdk1.8.0_20\jre\lib\rt.jar
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> C:\Users\Think\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.1.jar
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> C:\Users\Think\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> D:\Java\jdk1.8.0_20\jre\lib\rt.jar
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> C:\Users\Think\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.1.jar
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> C:\Users\Think\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> D:\Java\jdk1.8.0_20\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+25 items
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> scalafaq.concurrency.shapes.Circle
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> scalafaq.concurrency.shapes.Circle$
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> scalafaq.concurrency.shapes.Point
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> scalafaq.concurrency.shapes.Point$
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> scalafaq.concurrency.shapes.Rectangle
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> scalafaq.concurrency.shapes.Rectangle$
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> scalafaq.concurrency.shapes.Shape
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> scalafaq.concurrency.shapes.Triangle
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> scalafaq.concurrency.shapes.Triangle$
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> scalafaq.concurrency.shapes.Messages
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> scalafaq.concurrency.shapes.Messages$
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> scalafaq.concurrency.shapes.Messages$Exit$
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> scalafaq.concurrency.shapes.Messages$Finished$
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> scalafaq.concurrency.shapes.Messages$Response
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> scalafaq.concurrency.shapes.Messages$Response$
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> scalafaq.concurrency.shapes.ShapesDrawingActor
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> scalafaq.concurrency.shapes.ShapesDrawingActor$$anonfun$receive$1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> scalafaq.concurrency.shapes.ShapesDrawingActor$$anonfun$receive$1$$anonfun$applyOrElse$1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> scalafaq.concurrency.shapes.ShapesDrawingDriver
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> scalafaq.concurrency.shapes.ShapesDrawingDriver$
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> scalafaq.concurrency.shapes.ShapesDrawingDriver$$anonfun$1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> scalafaq.concurrency.shapes.ShapesDrawingDriver$$anonfun$2
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> scalafaq.concurrency.shapes.ShapesDrawingDriver$$anonfun$receive$1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> scalafaq.concurrency.shapes.Start
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> scalafaq.concurrency.shapes.Start$
+used names:
+151 items
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> &&
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> <init>
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> ==
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> AbstractFunction2
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> AbstractFunction3
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> AnyRef
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> Circle
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> Double
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> Function1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> None
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> Point
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> Predef
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> Product
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> Rectangle
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> ScalaRunTime
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> Serializable
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> Shape
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> Statics
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> String
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> StringContext
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> Triangle
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> Unit
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> _hashCode
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> _root_
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> _toString
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> anyHash
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> apply
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> asInstanceOf
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> center
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> concurrency
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> doubleHash
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> eq
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> f
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> finalizeHash
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> height
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> isInstanceOf
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> lowerLeft
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> mix
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> point1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> point2
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> point3
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> radius
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> runtime
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> s
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> scala
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> scalafaq
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> shapes
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> toString
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> typedProductIterator
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> width
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> x
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> y
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> ||
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> !
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> &&
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> <init>
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> ==
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> A1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> AbstractFunction1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> Actor
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> AnyRef
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> B1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> Exit
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> Finished
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> Function1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> Messages
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> None
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> Predef
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> Product
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> Response
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> ScalaRunTime
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> Serializable
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> ShapesDrawingActor
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> String
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> StringContext
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> _hashCode
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> _toString
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> actor
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> actorRef2Scala
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> akka
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> asInstanceOf
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> concurrency
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> draw
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> eq
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> isInstanceOf
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> message
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> package
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> println
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> response
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> runtime
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> s
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> scala
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> scalafaq
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> self
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> sender
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> shapes
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> str
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> toString
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> typedProductIterator
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> unchecked
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> ||
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> !
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> +
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> <init>
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> ==
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> A1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> Actor
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> ActorRef
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> ActorSystem
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> AnyRef
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> Array
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> B1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> ClassTag
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> Exit
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> Finished
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> Function1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> Messages
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> Predef
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> Props
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> ShapesDrawingActor
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> ShapesDrawingDriver
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> Start
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> String
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> StringContext
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> Unit
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> actor
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> actorOf
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> actorRef2Scala
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> akka
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> apply
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> asInstanceOf
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> concurrency
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> context
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> drawer
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> drawerActor
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> driver
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> isInstanceOf
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> materializeClassTag
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> package
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> println
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> qual$1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> s
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> scala
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> scalafaq
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> self
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> shapes
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> shutdown
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> system
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> unchecked
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> x$1
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> x$2
+product stamps:
+25 items
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Circle$.class -> lastModified(1461411083028)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Circle.class -> lastModified(1461411083024)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Messages$.class -> lastModified(1461411083032)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Messages$Exit$.class -> lastModified(1461411083036)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Messages$Finished$.class -> lastModified(1461411083036)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Messages$Response$.class -> lastModified(1461411083040)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Messages$Response.class -> lastModified(1461411083044)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Messages.class -> lastModified(1461411083032)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Point$.class -> lastModified(1461411083048)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Point.class -> lastModified(1461411083052)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Rectangle$.class -> lastModified(1461411083060)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Rectangle.class -> lastModified(1461411083064)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Shape.class -> lastModified(1461411083068)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1461411083084)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingActor$$anonfun$receive$1.class -> lastModified(1461411083080)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingActor.class -> lastModified(1461411083076)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingDriver$$anonfun$1.class -> lastModified(1461411083092)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingDriver$$anonfun$2.class -> lastModified(1461411083096)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingDriver$$anonfun$receive$1.class -> lastModified(1461411083100)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingDriver$.class -> lastModified(1461411083084)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\ShapesDrawingDriver.class -> lastModified(1461411083092)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Start$.class -> lastModified(1461411083104)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Start.class -> lastModified(1461411083100)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Triangle$.class -> lastModified(1461411083112)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\target\scala-2.11\classes\scalafaq\concurrency\shapes\Triangle.class -> lastModified(1461411083108)
+source stamps:
+3 items
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> hash(357b5d8d187eabbb21a78511122cae4c1d98371b)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> hash(6eb23d1fdc9e335920141b70993598f0e8425af3)
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> hash(c8cb0e4ba7fc86c5fd73e9b4ccdfee76c96e3b03)
+binary stamps:
+3 items
+C:\Users\Think\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.1.jar -> lastModified(1448625061000)
+C:\Users\Think\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+D:\Java\jdk1.8.0_20\jre\lib\rt.jar -> lastModified(1412345591288)
+class names:
+3 items
+C:\Users\Think\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.1.jar -> akka.actor.Actor
+C:\Users\Think\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Serializable
+D:\Java\jdk1.8.0_20\jre\lib\rt.jar -> java.lang.Object
+internal apis:
+3 items
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCrGsYxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIdF7Lt0AAZub3RpZnlzcQB+AAwhaZ38dAABeHNxAH4ADESI4Ep0AAR3YWl0c3EAfgAMiJpTgXQACVJlY3RhbmdsZXNxAH4ADLOnagV0AAZDaXJjbGVzcQB+AAxgDbMBdAAOY29weSRkZWZhdWx0JDJzcQB+AAw1qwZ1dAANJGFzSW5zdGFuY2VPZnNxAH4ADOk+hMx0AAxwcm9kdWN0QXJpdHlzcQB+AAylMOYpdAAGZXF1YWxzc3EAfgAM2PeS53QAAXlzcQB+AAxuksTNdAAGY2VudGVyc3EAfgAM8LvKA3QABnBvaW50MXNxAH4ADNo1g/x0AAxhc0luc3RhbmNlT2ZzcQB+AAzzgJDAdAAFUG9pbnRzcQB+AAw7QRW6dAAMc3luY2hyb25pemVkc3EAfgAMbf/qDHQABnBvaW50MnNxAH4ADAkPzTB0AA0kaXNJbnN0YW5jZU9mc3EAfgAM/ydecXQABmhlaWdodHNxAH4ADLow4AV0AAlsb3dlckxlZnRzcQB+AAyXzYdKdAAIY2FuRXF1YWxzcQB+AAzP1uBadAANcHJvZHVjdFByZWZpeHNxAH4ADPzrx990AAZyYWRpdXNzcQB+AAyTcjngdAAJbm90aWZ5QWxsc3EAfgAMkTlfCHQADGlzSW5zdGFuY2VPZnNxAH4ADFYAV5V0AAVTaGFwZXNxAH4ADNiHvCB0AARkcmF3c3EAfgAMSsm9Y3QABjxpbml0PnNxAH4ADP4J4Hx0AAI9PXNxAH4ADMTcCFZ0AAZwb2ludDNzcQB+AAwAgeSPdAAFY2xvbmVzcQB+AAyCpeC8dAAGJGluaXQkc3EAfgAMCClfoHQADmNvcHkkZGVmYXVsdCQzc3EAfgAMUkgjTHQABGNvcHlzcQB+AAwwTunbdAAIdG9TdHJpbmdzcQB+AAy50CUWdAACIT1zcQB+AAzuFfrMdAAIZ2V0Q2xhc3NzcQB+AAy5Z+irdAAOY29weSRkZWZhdWx0JDFzcQB+AAx+qt5NdAACbmVzcQB+AAxM94IBdAAFd2lkdGhzcQB+AAwUjfa3dAACZXFzcQB+AAx0EaK/dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMd/Gr9nQAAiMjc3EAfgAM5YDHF3QACGZpbmFsaXplc3EAfgAM8hkfTnQACFRyaWFuZ2xlc3EAfgAMDhPnmXQADnByb2R1Y3RFbGVtZW50c3EAfgAMj/1wVXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ac3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAIXNjYWxhZmFxLmNvbmN1cnJlbmN5LnNoYXBlcy5Qb2ludHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCLc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHNMAAlpbmhlcml0ZWRxAH4Ac0wAB3BhcmVudHNxAH4Ac3hxAH4AkHNxAH4Ai3VxAH4AbgAAAABzcQB+AIt1cQB+AG4AAAAAc3EAfgCLdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCPdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCPc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCpc3EAfgCccQB+AJ9zcQB+AKBzcQB+AKN1cQB+AKYAAAADc3EAfgCodAAEamF2YXNxAH4AqHQAAmlvcQB+AK1zcQB+AJx0AAdQcm9kdWN0cQB+AKJzcQB+AJx0AAZFcXVhbHNxAH4AonNxAH4AnHQABk9iamVjdHNxAH4AoHNxAH4Ao3VxAH4ApgAAAANzcQB+AKhxAH4As3NxAH4AqHQABGxhbmdxAH4ArXNxAH4AnHQAA0FueXEAfgCic3EAfgBwcQB+AH11cQB+AH4AAAAAc3EAfgCAAXQAIXNjYWxhZmFxLmNvbmN1cnJlbmN5LnNoYXBlcy5TaGFwZXVxAH4AgwAAAABxAH4Ah3VxAH4AiQAAAABzcQB+AItxAH4AkXNxAH4Ai3NxAH4Ak3NxAH4Ai3VxAH4AbgAAAABzcQB+AIt1cQB+AG4AAAAAc3EAfgCLdXEAfgCaAAAAAnNxAH4AnHEAfgC7c3EAfgCgc3EAfgCjdXEAfgCmAAAAA3NxAH4AqHEAfgCzc3EAfgCocQB+AMFxAH4ArXNxAH4AnHEAfgDDc3EAfgCgc3EAfgCjdXEAfgCmAAAAAnNxAH4AqHEAfgCrcQB+AK1zcQB+AHBxAH4AfXVxAH4AfgAAAABzcQB+AIAAdAAic2NhbGFmYXEuY29uY3VycmVuY3kuc2hhcGVzLkNpcmNsZXVxAH4AgwAAAABxAH4Ah3VxAH4AiQAAAABzcQB+AItxAH4AkXNxAH4Ai3NxAH4Ak3NxAH4Ai3VxAH4AbgAAAABzcQB+AIt1cQB+AG4AAAAAc3EAfgCLdXEAfgCaAAAAB3NxAH4AnHEAfgCfc3EAfgCgc3EAfgCjdXEAfgCmAAAAAnNxAH4AqHEAfgCrcQB+AK1zcQB+AJxxAH4An3NxAH4AoHNxAH4Ao3VxAH4ApgAAAANzcQB+AKhxAH4As3NxAH4AqHQAAmlvcQB+AK1zcQB+AJxxAH4At3EAfgDuc3EAfgCcdAAGRXF1YWxzcQB+AO5zcQB+AJx0AAVTaGFwZXNxAH4AoHNxAH4Ao3VxAH4ApgAAAARzcQB+AKh0AAhzY2FsYWZhcXNxAH4AqHQAC2NvbmN1cnJlbmN5c3EAfgCodAAGc2hhcGVzcQB+AK1zcQB+AJxxAH4Au3NxAH4AoHNxAH4Ao3VxAH4ApgAAAANzcQB+AKhxAH4As3NxAH4AqHEAfgDBcQB+AK1zcQB+AJxxAH4Aw3EAfgDuc3EAfgBwcQB+AH11cQB+AH4AAAAAc3EAfgCAAHQAJXNjYWxhZmFxLmNvbmN1cnJlbmN5LnNoYXBlcy5SZWN0YW5nbGV1cQB+AIMAAAAAcQB+AId1cQB+AIkAAAAAc3EAfgCLcQB+AJFzcQB+AItzcQB+AJNzcQB+AIt1cQB+AG4AAAAAc3EAfgCLdXEAfgBuAAAAAHNxAH4Ai3VxAH4AmgAAAAdzcQB+AJxxAH4An3NxAH4AoHNxAH4Ao3VxAH4ApgAAAAJzcQB+AKhxAH4Aq3EAfgCtc3EAfgCccQB+AJ9zcQB+AKBzcQB+AKN1cQB+AKYAAAADc3EAfgCocQB+ALNzcQB+AKh0AAJpb3EAfgCtc3EAfgCccQB+ALdxAH4BHnNxAH4AnHQABkVxdWFsc3EAfgEec3EAfgCcdAAFU2hhcGVzcQB+AKBzcQB+AKN1cQB+AKYAAAAEc3EAfgCodAAIc2NhbGFmYXFzcQB+AKh0AAtjb25jdXJyZW5jeXNxAH4AqHQABnNoYXBlc3EAfgCtc3EAfgCccQB+ALtzcQB+AKBzcQB+AKN1cQB+AKYAAAADc3EAfgCocQB+ALNzcQB+AKhxAH4AwXEAfgCtc3EAfgCccQB+AMNxAH4BHnNxAH4AcHEAfgB9dXEAfgB+AAAAAHNxAH4AgAB0ACRzY2FsYWZhcS5jb25jdXJyZW5jeS5zaGFwZXMuVHJpYW5nbGV1cQB+AIMAAAAAcQB+AId1cQB+AIkAAAAAc3EAfgCLcQB+AJFzcQB+AItzcQB+AJNzcQB+AIt1cQB+AG4AAAAAc3EAfgCLdXEAfgBuAAAAAHNxAH4Ai3VxAH4AmgAAAAdzcQB+AJxxAH4An3NxAH4AoHNxAH4Ao3VxAH4ApgAAAAJzcQB+AKhxAH4Aq3EAfgCtc3EAfgCccQB+AJ9zcQB+AKBzcQB+AKN1cQB+AKYAAAADc3EAfgCocQB+ALNzcQB+AKh0AAJpb3EAfgCtc3EAfgCccQB+ALdxAH4BTnNxAH4AnHQABkVxdWFsc3EAfgFOc3EAfgCcdAAFU2hhcGVzcQB+AKBzcQB+AKN1cQB+AKYAAAAEc3EAfgCodAAIc2NhbGFmYXFzcQB+AKh0AAtjb25jdXJyZW5jeXNxAH4AqHQABnNoYXBlc3EAfgCtc3EAfgCccQB+ALtzcQB+AKBzcQB+AKN1cQB+AKYAAAADc3EAfgCocQB+ALNzcQB+AKhxAH4AwXEAfgCtc3EAfgCccQB+AMNxAH4BTnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAG3NjYWxhZmFxLmNvbmN1cnJlbmN5LnNoYXBlc3NxAH4BcHQAFHNjYWxhZmFxLmNvbmN1cnJlbmN5c3EAfgFwdAAIc2NhbGFmYXFzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVRC40DhdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARUU6XElkZWFQcm9qZWN0c1xTY2FsYUZBUVxjb25jdXJyZW5jeVxzaGFwZXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDV7XY0Yfqu7IaeFERIsrkwdmDcb
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDf6WiIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwJJjukXQABHNlbGZzcQB+AAv6xuwSdAAHY29udGV4dHVxAH4ACQAAADRzcQB+AAt+nkwldAAGbm90aWZ5c3EAfgALgcyEMHQAB3VuYXBwbHlzcQB+AAurhyLCdAAHUmVjZWl2ZXNxAH4ACzb1G6V0AAR3YWl0c3EAfgALS6oRW3QACEZpbmlzaGVkc3EAfgALaF80P3QADSRhc0luc3RhbmNlT2ZzcQB+AAsqAo6kdAAHY29tcG9zZXNxAH4ACwW2o+R0AAxwcm9kdWN0QXJpdHlzcQB+AAtkprRydAAGZXF1YWxzc3EAfgALtnTQ2HQADGFzSW5zdGFuY2VPZnNxAH4AC4ngiTl0AAxzeW5jaHJvbml6ZWRzcQB+AAs3GSAtdAANJGlzSW5zdGFuY2VPZnNxAH4ACxz3L4x0AAdhbmRUaGVuc3EAfgALGIlzEnQAB3JlY2VpdmVzcQB+AAuiVzladAAKcHJlUmVzdGFydHNxAH4AC3W2XU50AA1hcm91bmRSZWNlaXZlc3EAfgALnbwXknQACGNhbkVxdWFsc3EAfgALb0Qqd3QAC3Bvc3RSZXN0YXJ0c3EAfgALVc2wcHQACHBvc3RTdG9wc3EAfgALkFkbWXQADXByb2R1Y3RQcmVmaXhzcQB+AAvtBkKpdAAJbm90aWZ5QWxsc3EAfgAL3fRGSXQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgAL9fDJPXQADGlzSW5zdGFuY2VPZnNxAH4AC3mYKux0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALts/4i3QADmFyb3VuZFBvc3RTdG9wc3EAfgALwBclFXQABjxpbml0PnNxAH4AC13daPF0AAhNZXNzYWdlc3NxAH4AC81EjOl0AAhwcmVTdGFydHNxAH4AC4Mg/qN0AAl1bmhhbmRsZWRzcQB+AAvM4CROdAAFYXBwbHlzcQB+AAsnMDs7dAACPT1zcQB+AAseCNn5dAAFY2xvbmVzcQB+AAu5GZgwdAAGJGluaXQkc3EAfgALF1knr3QACFJlc3BvbnNlc3EAfgALPkLtvHQABGNvcHlzcQB+AAsfo+09dAAGc2VuZGVyc3EAfgALY6bHxHQAB21lc3NhZ2VzcQB+AAtL3OmbdAAIdG9TdHJpbmdzcQB+AAtPH361dAACIT1zcQB+AAtxAw5JdAAIZ2V0Q2xhc3NzcQB+AAu/d5BKdAAOY29weSRkZWZhdWx0JDFzcQB+AAubl0y7dAASU2hhcGVzRHJhd2luZ0FjdG9yc3EAfgALf71BbnQAAm5lc3EAfgALE3RX+XQABEV4aXRzcQB+AAvyJKZbdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALczWz2XQAAmVxc3EAfgALMfsKXHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC+4MGvZ0AAIjI3NxAH4AC9STrMR0AAhmaW5hbGl6ZXNxAH4ACyQeMON0AA5wcm9kdWN0RWxlbWVudHNxAH4AC5A9vtd0AAhoYXNoQ29kZXNxAH4AC7vmmzp0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACRzY2FsYWZhcS5jb25jdXJyZW5jeS5zaGFwZXMuTWVzc2FnZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQ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
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAcvhCuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhB38XnQABHNlbGZzcQB+AAujfQKPdAAHY29udGV4dHVxAH4ACQAAACVzcQB+AAsJNYildAAGbm90aWZ5c3EAfgALASBW6nQAB1JlY2VpdmVzcQB+AAuFC0HedAAEd2FpdHNxAH4AC9PKfWp0AA0kYXNJbnN0YW5jZU9mc3EAfgALGzSkdXQABmVxdWFsc3NxAH4ACw3dPdB0AAxhc0luc3RhbmNlT2ZzcQB+AAsMxVphdAAMc3luY2hyb25pemVkc3EAfgALNOYOl3QADSRpc0luc3RhbmNlT2ZzcQB+AAuumAtNdAAHcmVjZWl2ZXNxAH4AC6+SIGJ0AApwcmVSZXN0YXJ0c3EAfgALxPigC3QAE1NoYXBlc0RyYXdpbmdEcml2ZXJzcQB+AAsUgvnQdAANYXJvdW5kUmVjZWl2ZXNxAH4AC9AeKqR0AAtwb3N0UmVzdGFydHNxAH4AC4N5lNB0AARtYWluc3EAfgALky0BL3QACHBvc3RTdG9wc3EAfgALOu0gj3QACW5vdGlmeUFsbHNxAH4AC1fmflt0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4ACwTtb8B0AAxpc0luc3RhbmNlT2ZzcQB+AAtzp7zJdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC6zGtM50AA5hcm91bmRQb3N0U3RvcHNxAH4AC3dX+YN0AAY8aW5pdD5zcQB+AAvgoTtkdAAIcHJlU3RhcnRzcQB+AAsDmvPKdAAJdW5oYW5kbGVkc3EAfgALO7nrK3QAAj09c3EAfgALVC63e3QABWNsb25lc3EAfgALBCpK8XQABiRpbml0JHNxAH4ACzzprCt0AAZzZW5kZXJzcQB+AAsQDtDpdAAIdG9TdHJpbmdzcQB+AAtEJ4SXdAACIT1zcQB+AAsxRZUsdAAIZ2V0Q2xhc3NzcQB+AAvwBCTUdAACbmVzcQB+AAsXrXQjdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgAL55yu43QAAmVxc3EAfgALncTXz3QAAiMjc3EAfgALBWaeGHQACGZpbmFsaXplc3EAfgALvId+uXQACGhhc2hDb2Rlc3EAfgAL9d/lZHQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABF4c2J0aS5hcGkuUHJpdmF0ZVOpYIEm6dU+AgAAeHIAE3hzYnRpLmFwaS5RdWFsaWZpZWSqtF3vVLFtGAIAAUwACXF1YWxpZmllcnQAFUx4c2J0aS9hcGkvUXVhbGlmaWVyO3hyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHNyABV4c2J0aS5hcGkuVW5xdWFsaWZpZWTcNhS2ni6C9QIAAHhyABN4c2J0aS5hcGkuUXVhbGlmaWVys3iUqevWWycCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAhc2NhbGFmYXEuY29uY3VycmVuY3kuc2hhcGVzLlN0YXJ0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCCc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4Ah3NxAH4AgnVxAH4AYAAAAABzcQB+AIJ1cQB+AGAAAAAAc3EAfgCCdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCGdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCGc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCfdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCgc3EAfgCTdAADQW55c3EAfgCXc3EAfgCadXEAfgCdAAAAAnNxAH4An3QABXNjYWxhcQB+AKZzcQB+AGJzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHEAfgBwdXEAfgB1AAAAAHNxAH4AdwB0AC9zY2FsYWZhcS5jb25jdXJyZW5jeS5zaGFwZXMuU2hhcGVzRHJhd2luZ0RyaXZlcnVxAH4AegAAAAB+cQB+AHx0AAhDbGFzc0RlZnVxAH4AgAAAAABzcQB+AIJxAH4AiHNxAH4AgnNxAH4AinNxAH4AgnVxAH4AYAAAAABzcQB+AIJ1cQB+AGAAAAAAc3EAfgCCdXEAfgCRAAAAA3NxAH4Ak3QABUFjdG9yc3EAfgCXc3EAfgCadXEAfgCdAAAAA3NxAH4An3QABGFra2FzcQB+AJ90AAVhY3RvcnEAfgCmc3EAfgCTcQB+AJZzcQB+AJdzcQB+AJp1cQB+AJ0AAAADc3EAfgCfcQB+AKJzcQB+AJ9xAH4ApHEAfgCmc3EAfgCTcQB+AKhzcQB+AJdzcQB+AJp1cQB+AJ0AAAACc3EAfgCfcQB+AK1xAH4ApnNxAH4AYnEAfgCwdXEAfgB1AAAAAHNxAH4AdwB0AC9zY2FsYWZhcS5jb25jdXJyZW5jeS5zaGFwZXMuU2hhcGVzRHJhd2luZ0RyaXZlcnVxAH4AegAAAABxAH4AfnVxAH4AgAAAAABzcQB+AIJxAH4AiHNxAH4AgnNxAH4AinNxAH4AgnVxAH4AYAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AZnEAfgCwdXEAfgB1AAAAAHNxAH4AdwBxAH4ALXVxAH4AegAAAABzcQB+AJN0AARVbml0c3EAfgCXc3EAfgCadXEAfgCdAAAAAnNxAH4An3EAfgCtcQB+AKZ1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgDheHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgB9dAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCUWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCGc3EAfgCTdAAFQXJyYXlxAH4A6XVxAH4AkQAAAAFzcQB+AJN0AAZTdHJpbmdzcQB+AJdzcQB+AJp1cQB+AJ0AAAADc3EAfgCfcQB+AKJzcQB+AJ9xAH4ApHEAfgCmc3EAfgCCdXEAfgBgAAAAAHNxAH4AgnVxAH4AkQAAAAJzcQB+AJNxAH4AlnEAfgEDc3EAfgCTcQB+AKhxAH4A6XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAG3NjYWxhZmFxLmNvbmN1cnJlbmN5LnNoYXBlc3NxAH4BEHQAFHNjYWxhZmFxLmNvbmN1cnJlbmN5c3EAfgEQdAAIc2NhbGFmYXFzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVRC40DhdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQARUU6XElkZWFQcm9qZWN0c1xTY2FsYUZBUVxjb25jdXJyZW5jeVxzaGFwZXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMjLDkun/IbF/XPptMzf7nbJbjsD
+external apis:
+0 items
+source infos:
+3 items
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\Shapes.scala -> 
+AAAAAAAAAAA=
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingActor.scala -> 
+AAAAAAAAAAA=
+E:\IdeaProjects\ScalaFAQ\concurrency\shapes\ShapesDrawingDriver.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVELjQOF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUU6XElkZWFQcm9qZWN0c1xTY2FsYUZBUVxjb25jdXJyZW5jeVxzaGFwZXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=

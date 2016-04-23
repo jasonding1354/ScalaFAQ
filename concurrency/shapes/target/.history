@@ -1,0 +1,22 @@
+ run
+compile
+libraryDependencies += "com.typesafe.akka" % "akka-actor_2.11" % "2.4.1"
+libraryDependencies += "com.typesafe.akka" %% "akka-actor_2.11" % "2.4.1"
+libraryDependencies +=
+name := "shapes"
+name :: "shapes"
+name ::= "shapes"
+exit
+compile
+exit
+compile
+:q
+exit
+libraryDependencies += "com.typesafe.akka" %% "akka-actor" % "2.4.1"
+xit
+exit
+idea
+help
+plugins
+compile
+run
