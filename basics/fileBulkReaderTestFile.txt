@@ -1,0 +1,2 @@
+this is a file for read method of FileBulkReader class
+do some work
