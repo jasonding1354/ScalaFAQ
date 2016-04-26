@@ -29,6 +29,7 @@ object ShapesDrawingDriver {
     val drawer = system.actorOf(Props(new ShapesDrawingActor), "drawingActor")
     val driver = system.actorOf(Props(new ShapesDrawingDriver(drawer)), "drawingDriver")
     driver ! Start
+     system.shutdown
   }
 }
 
