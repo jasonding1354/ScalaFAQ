@@ -12,12 +12,19 @@
 介绍了无参数方法、for推导式、异常处理、惰性求值、枚举、trait等几个概念和方法
 []()
 
-## 隐式转换
-- [隐式参数]()
+## 模式匹配
+- [简单匹配](https://github.com/jasonding1354/ScalaFAQ/blob/master/pattern_match/simple_matching.ipynb)
+[]()
 
+## 隐式转换
+- [隐式参数](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/implicits/implicit_parameter.ipynb)
+介绍了有关隐式参数的基本方法和规则
+- []()
 
 ## 函数式编程
-- []()
+- [函数式编程初步](https://github.com/jasonding1354/ScalaFAQ/blob/master/functional/functional_intro.ipynb)
+介绍了函数式编程的一些基本概念，包括匿名函数、闭包、尾递归、偏函数、偏应用函数、柯里化等
+-[]()
 
 ## 面向对象
 - []()
@@ -27,9 +34,15 @@
 介绍了Scala类型系统中的参数化类型以及型变（variance）标记
 - [类型边界 ](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/type_system/type_bound.ipynb)
 介绍类型边界以及使用类型边界解决型变故障的问题
+- [虚类型](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/type_system/phantom_type.ipynb)
+介绍了使用虚类型来定义按照一定顺序流程的工作流设计问题的解决方法
 - []()
 
 
 ## 并发与Actor
 - [actor信息交互过程](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/concurrency/Rendering_Example.ipynb)
 该示例模拟了场景渲染过程中驱动actor和绘图actor的信息交互过程
+
+
+## Scala集合库
+- [Scala集合库概况](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/collection_intro.ipynb)
