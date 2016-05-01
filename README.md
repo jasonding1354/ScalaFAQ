@@ -13,7 +13,7 @@
 []()
 
 ## 隐式转换
-- []()
+- [隐式参数]()
 
 
 ## 函数式编程
@@ -23,6 +23,10 @@
 - []()
 
 ## 类型系统
+- [参数化类型与型变标记](https://github.com/jasonding1354/ScalaFAQ/blob/master/type_system/parametered_type.ipynb)
+介绍了Scala类型系统中的参数化类型以及型变（variance）标记
+- [类型边界 ](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/type_system/type_bound.ipynb)
+介绍类型边界以及使用类型边界解决型变故障的问题
 - []()
 
 
