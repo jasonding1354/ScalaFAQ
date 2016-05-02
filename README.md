@@ -13,7 +13,7 @@
 []()
 
 ## 模式匹配
-- [简单匹配](https://github.com/jasonding1354/ScalaFAQ/blob/master/pattern_match/simple_matching.ipynb)
+- [简单匹配]()
 []()
 
 ## 隐式转换
@@ -22,7 +22,7 @@
 - []()
 
 ## 函数式编程
-- [函数式编程初步](https://github.com/jasonding1354/ScalaFAQ/blob/master/functional/functional_intro.ipynb)
+- [函数式编程初步]()
 介绍了函数式编程的一些基本概念，包括匿名函数、闭包、尾递归、偏函数、偏应用函数、柯里化等
 -[]()
 
@@ -30,7 +30,7 @@
 - []()
 
 ## 类型系统
-- [参数化类型与型变标记](https://github.com/jasonding1354/ScalaFAQ/blob/master/type_system/parametered_type.ipynb)
+- [参数化类型与型变标记]()
 介绍了Scala类型系统中的参数化类型以及型变（variance）标记
 - [类型边界 ](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/type_system/type_bound.ipynb)
 介绍类型边界以及使用类型边界解决型变故障的问题
