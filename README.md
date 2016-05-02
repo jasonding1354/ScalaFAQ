@@ -13,16 +13,18 @@
 []()
 
 ## 模式匹配
-- [简单匹配]()
+- [简单匹配](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/pattern_match/simple_matching.ipynb)
 []()
 
 ## 隐式转换
 - [隐式参数](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/implicits/implicit_parameter.ipynb)
 介绍了有关隐式参数的基本方法和规则
-- []()
+- [隐式转换](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/implicits/implicit_conversion.ipynb)
+介绍了隐式转换的基本概念，介绍了Map中的->表达式的隐式转换原理，通过隐式转换为scala.StringContext方法添加新的字符串插入器
+
 
 ## 函数式编程
-- [函数式编程初步]()
+- [函数式编程初步](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/functional_intro.ipynb)
 介绍了函数式编程的一些基本概念，包括匿名函数、闭包、尾递归、偏函数、偏应用函数、柯里化等
 -[]()
 
@@ -30,7 +32,7 @@
 - []()
 
 ## 类型系统
-- [参数化类型与型变标记]()
+- [参数化类型与型变标记](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/type_system/parametered_type.ipynb)
 介绍了Scala类型系统中的参数化类型以及型变（variance）标记
 - [类型边界 ](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/type_system/type_bound.ipynb)
 介绍类型边界以及使用类型边界解决型变故障的问题
