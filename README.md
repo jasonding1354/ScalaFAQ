@@ -26,7 +26,7 @@
 ## 函数式编程
 - [函数式编程初步](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/functional_intro.ipynb)
 介绍了函数式编程的一些基本概念，包括匿名函数、闭包、尾递归、偏函数、偏应用函数、柯里化等
--[]()
+- []()
 
 ## 面向对象
 - []()
