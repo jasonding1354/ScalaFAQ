@@ -14,7 +14,7 @@
 
 ## 模式匹配
 - [简单匹配](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/pattern_match/simple_matching.ipynb)
-[]()
+- []()
 
 ## 隐式转换
 - [隐式参数](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/implicits/implicit_parameter.ipynb)
@@ -26,7 +26,7 @@
 ## 函数式编程
 - [函数式编程初步](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/functional_intro.ipynb)
 介绍了函数式编程的一些基本概念，包括匿名函数、闭包、尾递归、偏函数、偏应用函数、柯里化等
-- []()
+- [函数式数据结构]()
 
 ## 面向对象
 - []()
@@ -47,4 +47,5 @@
 
 
 ## Scala集合库
-- [Scala集合库概况](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/collection_intro.ipynb)
+- [Scala集合库概况](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/collection_intro.ipynb)介绍了Scala集合库的主要集合类，介绍了Vector、List、Stream、ArrayBuffer的基本原理
+- [Scala集合库继承层次](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/collection_hierarchy.ipynb)介绍了集合库继承层次中Traversable、Iterable、Seq等特质的基本原理
