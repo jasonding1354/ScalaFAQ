@@ -7,8 +7,10 @@
 ---
 ## 基本概念
 - [基本知识点1](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/basics/basics1.ipynb)
+
 介绍了偏函数、Future、递归技巧、类型推断、Option类型、参数化类型等几个概念和基本方法
 - [基本知识点2](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/basics/basics2.ipynb)
+
 介绍了无参数方法、for推导式、异常处理、惰性求值、枚举、trait等几个概念和方法
 []()
 
@@ -18,37 +20,56 @@
 
 ## 隐式转换
 - [隐式参数](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/implicits/implicit_parameter.ipynb)
+
 介绍了有关隐式参数的基本方法和规则
 - [隐式转换](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/implicits/implicit_conversion.ipynb)
+
 介绍了隐式转换的基本概念，介绍了Map中的->表达式的隐式转换原理，通过隐式转换为scala.StringContext方法添加新的字符串插入器
 
 
 ## 函数式编程
 - [函数式编程初步](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/functional_intro.ipynb)
+
 介绍了函数式编程的一些基本概念，包括匿名函数、闭包、尾递归、偏函数、偏应用函数、柯里化等
-- [函数式数据结构](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/functional_data_structure.ipynb)介绍了函数式数据结构的基本特点和主要类型
-- [函数式集合类型的通用操作](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/universal_operations.ipynb)介绍了遍历、映射、过滤、折叠、归约和向左向右遍历等操作的基本原理
-- [软件复用与组合器](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/combinators.ipynb)函数式编程语言通过组合器来实现软件复用组件，将数据和需要实现的行为分离，从而能够实现更加复杂的结构
+- [函数式数据结构](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/functional_data_structure.ipynb)
+
+介绍了函数式数据结构的基本特点和主要类型
+- [函数式集合类型的通用操作](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/universal_operations.ipynb)
+
+介绍了遍历、映射、过滤、折叠、归约和向左向右遍历等操作的基本原理
+- [软件复用与组合器](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/combinators.ipynb)
+
+函数式编程语言通过组合器来实现软件复用组件，将数据和需要实现的行为分离，从而能够实现更加复杂的结构
 
 ## 面向对象
 - []()
 
 ## 类型系统
 - [参数化类型与型变标记](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/type_system/parametered_type.ipynb)
+
 介绍了Scala类型系统中的参数化类型以及型变（variance）标记
 - [类型边界 ](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/type_system/type_bound.ipynb)
+
 介绍类型边界以及使用类型边界解决型变故障的问题
 - [虚类型](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/type_system/phantom_type.ipynb)
+
 介绍了使用虚类型来定义按照一定顺序流程的工作流设计问题的解决方法
 - []()
 
 
 ## 并发与Actor
 - [actor信息交互过程](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/concurrency/Rendering_Example.ipynb)
+
 该示例模拟了场景渲染过程中驱动actor和绘图actor的信息交互过程
 
 
 ## Scala集合库
-- [Scala集合库概况](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/collection_intro.ipynb)介绍了Scala集合库的主要集合类，介绍了Vector、List、Stream、ArrayBuffer的基本原理
-- [Scala集合库继承层次](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/collection_hierarchy.ipynb)介绍了集合库继承层次中Traversable、Iterable、Seq等特质的基本原理
-- [使用List数据结构解决一系列小问题](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/work_with_lists.ipynb)介绍了List的编程实例
+- [Scala集合库概况](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/collection_intro.ipynb)
+
+介绍了Scala集合库的主要集合类，介绍了Vector、List、Stream、ArrayBuffer的基本原理
+- [Scala集合库继承层次](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/collection_hierarchy.ipynb)
+
+介绍了集合库继承层次中Traversable、Iterable、Seq等特质的基本原理
+- [使用List数据结构解决一系列小问题](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/work_with_lists.ipynb)
+
+介绍了List的编程实例
