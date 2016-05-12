@@ -26,7 +26,9 @@
 ## 函数式编程
 - [函数式编程初步](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/functional_intro.ipynb)
 介绍了函数式编程的一些基本概念，包括匿名函数、闭包、尾递归、偏函数、偏应用函数、柯里化等
-- [函数式数据结构]()
+- [函数式数据结构](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/functional_data_structure.ipynb)介绍了函数式数据结构的基本特点和主要类型
+- [函数式集合类型的通用操作](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/universal_operations.ipynb)介绍了遍历、映射、过滤、折叠、归约和向左向右遍历等操作的基本原理
+- [软件复用与组合器](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/functional/combinators.ipynb)函数式编程语言通过组合器来实现软件复用组件，将数据和需要实现的行为分离，从而能够实现更加复杂的结构
 
 ## 面向对象
 - []()
@@ -49,3 +51,4 @@
 ## Scala集合库
 - [Scala集合库概况](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/collection_intro.ipynb)介绍了Scala集合库的主要集合类，介绍了Vector、List、Stream、ArrayBuffer的基本原理
 - [Scala集合库继承层次](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/collection_hierarchy.ipynb)介绍了集合库继承层次中Traversable、Iterable、Seq等特质的基本原理
+- [使用List数据结构解决一系列小问题](http://nbviewer.jupyter.org/github/jasonding1354/ScalaFAQ/blob/master/collections/work_with_lists.ipynb)介绍了List的编程实例
